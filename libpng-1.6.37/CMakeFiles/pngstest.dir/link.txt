@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/pngstest.dir/contrib/libtests/pngstest.c.o  -o pngstest -Wl,-rpath,/home/panjie/web/src/wasm-bench/libpng-wasm/libpng-1.6.37 libpng16.so.16.37.0 -lm 
